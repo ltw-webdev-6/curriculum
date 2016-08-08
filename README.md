@@ -2,7 +2,7 @@
 
 The weekly term materials, exercises & assignments for Algonquin Design’s Web Dev 6 course.
 
-### [☛ Web Dev 5 curriculum](https://learn-the-web.algonquindesign.ca/courses/web-dev-6/)
+### [☛ Web Dev 6 curriculum](https://learn-the-web.algonquindesign.ca/courses/web-dev-6/)
 
 ---
 
