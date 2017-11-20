@@ -1,0 +1,28 @@
+---
+topic: "Interactive prototype user testing"
+desc: "Trade off interactive prototypes and get dedicated feedback for your app design."
+clr: "2"
+
+video_tutorials:
+  - title: "Interactive prototype checklist"
+  - title: "User testing checklist"
+  - title: "Accessibility checklist"
+    url: accessibility-checklist
+
+tasks:
+  - type: blank
+  - type: blank
+  - title: "Prototype user testing"
+    type: basic
+    submit: show
+    button: activity
+    pair: true
+  - title: "Web app prototype"
+    graded-as: web-app-prototype
+    due: "Midnight, last day of class"
+    due_week: 15
+    due_time: "23:59"
+    submit: online
+    pair: true
+
+---
