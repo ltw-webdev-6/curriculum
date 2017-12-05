@@ -11,8 +11,12 @@ video_tutorials:
 
 tasks:
   - type: blank
-  - type: blank
-  - title: "Prototype user testing"
+  - title: "UX discussion"
+    type: basic
+    submit: show
+    button: activity
+    pair: true
+  - title: "Wireframe user testing"
     type: basic
     submit: show
     button: activity
@@ -22,7 +26,7 @@ tasks:
     due: "Midnight, last day of class"
     due_week: 15
     due_time: "23:59"
-    submit: online
+    submit: show
     pair: true
 
 ---

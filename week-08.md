@@ -21,6 +21,8 @@ tasks:
   - type: blank
   - type: blank
   - title: "Team check-in"
+    url: "https://github.com/acgd-webdev-6/team-check-in"
+    due: "Multiple dates"
     graded-as: team-check-in
     type: basic
     submit: show
@@ -31,7 +33,7 @@ tasks:
     due: "Midnight, last day of class"
     due_week: 15
     due_time: "23:59"
-    submit: online
+    submit: show
     pair: true
 
 ---

@@ -29,10 +29,12 @@ tasks:
     button: activity
     pair: true
   - title: "Web app UX"
+    url: "https://github.com/acgd-webdev-6/web-app-ux"
     graded-as: web-app-ux
+    due: "Start of class, week 5"
     due_week: 5
     due_time: "23:59"
-    submit: online
+    submit: show
     pair: true
     type: basic
 ---

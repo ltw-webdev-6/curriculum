@@ -20,12 +20,15 @@ video_tutorials:
 slides:
   - title: "Web Dev 6 intro"
     url: intro
+  - title: "Web app overview"
+    url: web-app-overview
 
 tasks:
   - type: blank
   - title: "Choosing teams"
+    url: "https://github.com/acgd-webdev-6/choosing-teams"
     type: basic
-    submit: show
+    submit: "Message teacher team list."
     button: activity
     pair: true
   - title: "GitHub project setup"
@@ -33,9 +36,12 @@ tasks:
     type: lesson
     pair: true
   - title: "Web app UX"
+    url: "https://github.com/acgd-webdev-6/web-app-ux"
     graded-as: web-app-ux
+    due: "Start of class, week 5"
     due_week: 5
-    submit: online
+    due_time: "23:59"
+    submit: show
     pair: true
     type: basic
   - type: watch-videos
