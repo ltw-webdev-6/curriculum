@@ -6,7 +6,7 @@ clr: "1, 2, 6"
 video_tutorials:
   - title: "Accessibility checklist"
     url: accessibility-checklist
-  - title: "Interactive prototype checklist"
+  - title: "User testing checklist"
 
 tasks:
   - type: blank

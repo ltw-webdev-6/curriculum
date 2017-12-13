@@ -4,11 +4,10 @@ desc: "Start delegating and planning the code’s organization and begin writing
 clr: "1, 2, 3, 4, 5, 6"
 
 video_tutorials:
-  - title: "Advanced layout systems"
-  - title: "CSS preprocessors"
   - title: "Branching & GitHub Flow"
     url: branching-github-flow
     highlight: true
+  - title: "CSS preprocessors"
   - title: "Jekyll"
     url: jekyll
   - title: "Accessibility checklist"

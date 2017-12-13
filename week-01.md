@@ -32,7 +32,7 @@ tasks:
     button: activity
     pair: true
   - title: "GitHub project setup"
-    # Refer to Eric: protected master, dev, branches, etc.
+    url: github-project-setup
     type: lesson
     pair: true
   - title: "Web app UX"

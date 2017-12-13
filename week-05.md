@@ -4,10 +4,10 @@ desc: "Trade off interactive prototypes and get dedicated feedback for your app 
 clr: "2"
 
 video_tutorials:
-  - title: "Interactive prototype checklist"
   - title: "User testing checklist"
   - title: "Accessibility checklist"
     url: accessibility-checklist
+  - title: "Interactive prototype checklist"
 
 tasks:
   - type: blank
