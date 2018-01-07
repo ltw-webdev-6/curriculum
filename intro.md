@@ -9,13 +9,6 @@ slides:
       **Web Dev 6**
 
   - content: |
-      ## Thomas J Bradley
-
-      *Super nerd*
-
-      [thomas.bradley@algonquincollege.com](mailto:thomas.bradley@algonquincollege.com)
-
-  - content: |
       ## What we’re learning
 
       - Designing web applications
