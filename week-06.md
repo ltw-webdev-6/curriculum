@@ -1,43 +1,34 @@
 ---
-topic: "Diving into code"
-desc: "Start delegating and planning the code’s organization and begin writing code for the different screens of the project."
-clr: "1, 2, 3, 4, 5, 6"
+# topic: "Reading week—no classes"
+topic: "Work week"
+# during_class: "No class"
+# desc: "No classes, labs or new homework this week—get caught up!"
+desc: "Work classes to get caught up and ready for the final push to the end of the term!"
+clr: "1, 2, 6"
 
-video_tutorials:
-  - title: "Branching & GitHub Flow"
-    url: branching-github-flow
-    highlight: true
-  - title: "CSS preprocessors"
-  - title: "Jekyll"
-    url: jekyll
-  - title: "Accessibility checklist"
-    url: accessibility-checklist
-    highlight: true
-  - title: "Cheat sheets & checklists"
-    url: cheat-sheets-checklists
+# no_lab_times: true
+# no_office_hours: true
 
-slides:
-  - title: "Many people, one codebase"
+group_activities:
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
+    type: pencil
 
 tasks:
-  - title: "Git Graduator"
-    type: activity
-  - title: "Branch & pull"
-    type: lesson
-  - title: "Team check-in"
-    url: "https://github.com/acgd-webdev-6/team-check-in"
-    due: "Multiple dates"
-    graded-as: team-check-in
+  - type: blank
+  - title: "One-on-one time"
+    url: "https://github.com/acgd-webdev-shared/one-on-one-time"
     type: basic
-    submit: show
     button: activity
-    pair: true
-  - title: "Web app prototype"
-    graded-as: web-app-prototype
-    due: "Midnight, last day of class"
-    due_week: 15
-    due_time: "23:59"
-    submit: show
-    pair: true
-
+    submit: "Submit nothing."
+    graded-as: false
+  - title: "Mid-course feedback"
+    type: basic
+    submit: "Submit feedback form."
+    graded-as: false
+  - title: "Continue assignments"
+    url: "https://github.com/acgd-webdev-shared/continue-assignments"
+    submit: "Submit nothing new."
+    graded-as: false
+  - type: watch-videos
 ---

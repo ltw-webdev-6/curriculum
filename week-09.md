@@ -30,14 +30,19 @@ tasks:
     button: activity
     type: basic
   - title: "Team reflection"
+    url: "https://github.com/acgd-webdev-6/team-reflection"
     due: "Midnight, last day of class"
+    due_week: 9
+    due_time: "23:59"
     type: basic
+    disabled: true
   - title: "Web app prototype"
+    url: "https://github.com/acgd-webdev-6/web-app-prototype"
     graded-as: web-app-prototype
     due: "Midnight, last day of class"
-    due_week: 15
+    due_week: 9
     due_time: "23:59"
     submit: online
     pair: true
-
+    disabled: true
 ---

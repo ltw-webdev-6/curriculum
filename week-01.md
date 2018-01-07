@@ -39,7 +39,7 @@ tasks:
     url: "https://github.com/acgd-webdev-6/web-app-ux"
     graded-as: web-app-ux
     due: "Start of class, week 5"
-    due_week: 5
+    due_week: 4
     due_time: "23:59"
     submit: show
     pair: true
