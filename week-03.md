@@ -16,7 +16,9 @@ video_tutorials:
     url: writing-a-readme
 
 tasks:
-  - type: blank
+  - title: "Security Sniper"
+    url: "https://activities.learn-the-web.algonquindesign.ca/security-sniper/"
+    type: activity
   - type: blank
   - title: "Team check-in"
     url: "https://github.com/acgd-webdev-6/team-check-in"
