@@ -25,8 +25,8 @@ slides:
 
 tasks:
   - type: blank
-  - title: "Choosing teams"
-    url: "https://github.com/acgd-webdev-6/choosing-teams"
+  - title: "Team allocation"
+    url: "https://github.com/acgd-webdev-6/team-allocation"
     type: basic
     submit: "Message teacher team list."
     button: activity
