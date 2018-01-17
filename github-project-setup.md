@@ -325,7 +325,7 @@ steps:
       label: "Dev"
     before: |
       Create a new file named `.editorconfig` in the folder and add this information to it. **Copying is enabled for efficiency.**
-    code_file: ".gitattributes"
+    code_file: ".editorconfig"
     code_can_copy: true
     code: |
       ; editorconfig.org
