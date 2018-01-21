@@ -15,6 +15,11 @@ video_tutorials:
   - title: "Writing a readme"
     url: writing-a-readme
 
+slides:
+  - title: "Better team communication"
+    # ~15 rules
+    # https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/
+
 tasks:
   - title: "Security Sniper"
     url: "https://activities.learn-the-web.algonquindesign.ca/security-sniper/"

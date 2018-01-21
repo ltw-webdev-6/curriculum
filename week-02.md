@@ -10,6 +10,8 @@ video_tutorials:
   - title: "Using GitHub for project management"
     highlight: true
     videos: true
+  - title: "Sprint checklist"
+    highlight: true
   - title: "Writing for the Web"
     url: writing-for-the-web
   - title: "Writing checklist"
@@ -17,6 +19,8 @@ video_tutorials:
 
 slides:
   - title: "Planning software"
+    url: planning-software
+  - title: "Determining success"
 
 tasks:
   - type: blank
@@ -25,8 +29,8 @@ tasks:
     type: lesson
     pair: true
     disabled: true
-  - title: "Team kick-off"
-    url: "https://github.com/acgd-webdev-6/team-kick-off"
+  - title: "Success criteria definitions"
+    url: "https://github.com/acgd-webdev-6/success-criteria-definitions"
     type: basic
     submit: show
     button: activity
