@@ -11,6 +11,7 @@ video_tutorials:
     highlight: true
     videos: true
   - title: "Sprint checklist"
+    url: sprint-checklist
     highlight: true
   - title: "Writing for the Web"
     url: writing-for-the-web
@@ -20,22 +21,19 @@ video_tutorials:
 slides:
   - title: "Planning software"
     url: planning-software
-  - title: "Determining success"
 
 tasks:
   - type: blank
-  - title: "Project planning"
-    url: "project-planning"
+  - title: "Agile project planning"
+    url: "agile-project-planning"
     type: lesson
     pair: true
-    disabled: true
   - title: "Success criteria definitions"
     url: "https://github.com/acgd-webdev-6/success-criteria-definitions"
     type: basic
     submit: show
     button: activity
     pair: true
-    disabled: true
   - title: "Web app UX"
     url: "https://github.com/acgd-webdev-6/web-app-ux"
     graded-as: web-app-ux

@@ -24,7 +24,7 @@ slides:
 
       *Taken from Scrum*
 
-      1. Each week, meet to define deliverables
+      1. Start by meeting to define deliverables
       2. Determine the due date for all the deliverables
       3. Assign each deliverable to a single person
 
