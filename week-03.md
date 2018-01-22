@@ -4,6 +4,9 @@ desc: "Work diligently to complete the UX planning & research for the app to rea
 clr: "1, 2, 6"
 
 video_tutorials:
+  - title: "Sprint checklist"
+    url: sprint-checklist
+    highlight: true
   - title: "Accessibility checklist"
     url: accessibility-checklist
   - title: "Markdown"
@@ -17,8 +20,7 @@ video_tutorials:
 
 slides:
   - title: "Better team communication"
-    # ~15 rules
-    # https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/
+    url: better-team-communication
 
 tasks:
   - title: "Security Sniper"
