@@ -10,12 +10,18 @@ video_tutorials:
   - title: "Accessibility checklist"
     url: accessibility-checklist
     highlight: true
+  - title: "Sprint checklist"
+    url: sprint-checklist
   - title: "Branching & GitHub Flow"
     url: branching-github-flow
   - title: "Jekyll"
     url: jekyll
   - title: "Cheat sheets & checklists"
     url: cheat-sheets-checklists
+
+todos:
+  - "Sprint 7 review"
+  - "Sprint 8 planning"
 
 tasks:
   - type: blank

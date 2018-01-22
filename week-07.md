@@ -6,6 +6,8 @@ clr: "1, 2, 3, 4, 5, 6"
 video_tutorials:
   - title: "Branching & GitHub Flow"
     url: branching-github-flow
+  - title: "Sprint checklist"
+    url: sprint-checklist
   - title: "Jekyll"
     url: jekyll
   - title: "Accessibility checklist"
@@ -13,6 +15,10 @@ video_tutorials:
     highlight: true
   - title: "Cheat sheets & checklists"
     url: cheat-sheets-checklists
+
+todos:
+  - "Sprint 5 review"
+  - "Sprint 7 planning"
 
 tasks:
   - type: blank

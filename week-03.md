@@ -22,6 +22,10 @@ slides:
   - title: "Better team communication"
     url: better-team-communication
 
+todos:
+  - "Sprint 2 review"
+  - "Sprint 3 planning"
+
 tasks:
   - title: "Security Sniper"
     url: "https://activities.learn-the-web.algonquindesign.ca/security-sniper/"

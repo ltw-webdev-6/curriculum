@@ -8,6 +8,8 @@ video_tutorials:
     url: branching-github-flow
     highlight: true
   - title: "CSS preprocessors"
+  - title: "Sprint checklist"
+    url: sprint-checklist
   - title: "Jekyll"
     url: jekyll
   - title: "Accessibility checklist"
@@ -18,6 +20,10 @@ video_tutorials:
 
 slides:
   - title: "Many people, one codebase"
+
+todos:
+  - "Sprint 4 review"
+  - "Sprint 5 planning"
 
 tasks:
   - title: "Git Graduator"

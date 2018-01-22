@@ -8,12 +8,17 @@ last_week: true
 video_tutorials:
   - title: "Launch checklist"
     url: launch-checklist
+  - title: "Sprint checklist"
+    url: sprint-checklist
   - title: "Browser testing checklist"
     url: browser-testing-checklist
   - title: "Accessibility testing checklist"
     url: accessibility-testing-checklist
   - title: "Advanced performance checklist"
     url: advanced-performance-checklist
+
+todos:
+  - "Sprint 8 review"
 
 tasks:
   - type: blank
