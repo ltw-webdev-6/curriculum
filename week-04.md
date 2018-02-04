@@ -7,10 +7,16 @@ video_tutorials:
   - title: "Sprint checklist"
     url: sprint-checklist
     highlight: true
-  - title: "User testing checklist"
+  - title: "Usability testing checklist"
+    url: usability-testing-checklist
   - title: "Accessibility checklist"
     url: accessibility-checklist
-  - title: "Interactive prototype checklist"
+
+group_activities:
+  - title: "UX rubric completion"
+    url: ux-rubric-completion
+    pair: true
+    type: star
 
 todos:
   - "Sprint 3 review"
@@ -19,27 +25,22 @@ todos:
 tasks:
   - type: blank
   - title: "UX discussion"
-    # Like a check-in but specifically discussing with teacher about the UX
     url: "https://github.com/acgd-webdev-6/ux-discussion"
     type: basic
-    submit: show
+    submit: "Group meeting with teacher."
     button: activity
     pair: true
-    disabled: true
-  - title: "Wireframe user testing"
-    url: "https://github.com/acgd-webdev-6/wireframe-user-testing"
+  - title: "Usability testing"
+    url: "/courses/shared/usability-testing/"
     type: basic
     submit: show
     button: activity
     pair: true
-    disabled: true
   - title: "Web app prototype"
     url: "https://github.com/acgd-webdev-6/web-app-prototype"
     graded-as: web-app-prototype
-    due: "Midnight, last day of class"
+    due: "By the end of last class"
     due_week: 9
-    due_time: "23:59"
     submit: show
     pair: true
-    disabled: true
 ---

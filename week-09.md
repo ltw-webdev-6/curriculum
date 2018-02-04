@@ -12,16 +12,28 @@ video_tutorials:
     url: sprint-checklist
   - title: "Browser testing checklist"
     url: browser-testing-checklist
+  - title: "Interactive prototype checklist"
   - title: "Accessibility testing checklist"
     url: accessibility-testing-checklist
   - title: "Advanced performance checklist"
     url: advanced-performance-checklist
 
+group_activities:
+  - title: "Web app rubric completion"
+    url: web-app-rubric-completion
+    pair: true
+    type: star
+
 todos:
   - "Sprint 8 review"
 
 tasks:
-  - type: blank
+  - title: "Final team check-in"
+    pair: true
+    button: activity
+    type: basic
+    submit: "Group meeting with teacher."
+    graded: false
   - title: "Accessibility testing"
     url: "/courses/shared/accessibility-testing/"
     submit: "Submit nothing."
@@ -36,18 +48,16 @@ tasks:
     type: basic
   - title: "Team reflection"
     url: "https://github.com/acgd-webdev-6/team-reflection"
-    due: "Midnight, last day of class"
+    due: "By the end of last class"
     due_week: 9
-    due_time: "23:59"
     type: basic
     disabled: true
   - title: "Web app prototype"
     url: "https://github.com/acgd-webdev-6/web-app-prototype"
     graded-as: web-app-prototype
-    due: "Midnight, last day of class"
+    due: "By the end of last class"
     due_week: 9
-    due_time: "23:59"
-    submit: online
+    submit: show
     pair: true
     disabled: true
 ---

@@ -10,14 +10,14 @@ video_tutorials:
   - title: "Accessibility checklist"
     url: accessibility-checklist
     highlight: true
+  - title: "Interactive prototype checklist"
+    highlight: true
   - title: "Sprint checklist"
     url: sprint-checklist
   - title: "Branching & GitHub Flow"
     url: branching-github-flow
   - title: "Jekyll"
     url: jekyll
-  - title: "Cheat sheets & checklists"
-    url: cheat-sheets-checklists
 
 todos:
   - "Sprint 7 review"
@@ -39,9 +39,8 @@ tasks:
   - title: "Web app prototype"
     url: "https://github.com/acgd-webdev-6/web-app-prototype"
     graded-as: web-app-prototype
-    due: "Midnight, last day of class"
+    due: "By the end of last class"
     due_week: 9
-    due_time: "23:59"
     submit: show
     pair: true
     disabled: true
