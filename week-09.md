@@ -48,14 +48,14 @@ tasks:
     type: basic
   - title: "Team reflection"
     url: "https://github.com/acgd-webdev-6/team-reflection"
-    due: "By the end of last class"
+    due: "By the end of the final class"
     due_week: 9
     type: basic
     disabled: true
   - title: "Web app prototype"
     url: "https://github.com/acgd-webdev-6/web-app-prototype"
     graded-as: web-app-prototype
-    due: "By the end of last class"
+    due: "By the end of the final class"
     due_week: 9
     submit: show
     pair: true
