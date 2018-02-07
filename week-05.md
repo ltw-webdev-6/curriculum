@@ -51,5 +51,4 @@ tasks:
     due_week: 9
     submit: show
     pair: true
-    disabled: true
 ---
