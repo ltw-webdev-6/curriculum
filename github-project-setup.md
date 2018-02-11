@@ -253,6 +253,9 @@ steps:
       - Dino Demos <https://github.com/dinodemos>
     after: |
       **Save and commit that.** Make sure you’re not committing to the `master` branch.
+    notes:
+      - label: "Commit conventions"
+        text: "Don’t forget to follow the [Git commit best practices](/topics/commit-message-cheat-sheet)."
 
   - title: "Add a GitIgnore file"
     person:
@@ -315,7 +318,6 @@ steps:
       # Files that might appear on external disks
       .Spotlight-V100
       .Trashes
-
     after: |
       **Save and commit that.**
 

@@ -4,8 +4,10 @@ desc: "Start delegating and planning the code’s organization and begin writing
 clr: "1, 2, 3, 4, 5, 6"
 
 video_tutorials:
+  - title: "Branching flowchart"
+    url: branching-flow-chart
+    highlight: true
   - title: "Branching & GitHub Flow"
-    url: branching-github-flow
     highlight: true
   - title: "CSS preprocessors"
   - title: "Sprint checklist"
@@ -20,6 +22,7 @@ video_tutorials:
 
 slides:
   - title: "Many people, one codebase"
+    url: many-people-one-codebase
 
 todos:
   - "Sprint 4 review"
@@ -29,11 +32,9 @@ tasks:
   - title: "Git Graduator"
     url: "https://activities.learn-the-web.algonquindesign.ca/git-graduator/"
     type: activity
-    disabled: true
-  - title: "Branch & pull"
-    url: branch-and-pull
+  - title: "Branch & pull request"
+    url: branch-and-pull-request
     type: lesson
-    disabled: true
   - title: "Team check-in"
     url: "https://github.com/acgd-webdev-6/team-check-in"
     due: "Multiple dates"
