@@ -7,7 +7,7 @@ hide_markbot: true
 
 extra_tutorials:
   - title: "Branching flowchart"
-    url: branching-flow-chart
+    url: branching-flowchart
     highlight: true
   - title: "Branching & GitHub Flow"
     url: branching-github-flow

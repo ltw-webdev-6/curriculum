@@ -5,7 +5,7 @@ clr: "1, 2, 3, 4, 5, 6"
 
 video_tutorials:
   - title: "Branching flowchart"
-    url: branching-flow-chart
+    url: branching-flowchart
     highlight: true
   - title: "Branching & GitHub Flow"
     highlight: true
