@@ -28,12 +28,12 @@ todos:
   - "Sprint 8 review"
 
 tasks:
-  - title: "Final team check-in"
+  - title: "Usability testing"
+    url: "/courses/shared/usability-testing/"
+    submit: "Submit nothing."
     pair: true
     button: activity
     type: basic
-    submit: "Group meeting with teacher."
-    graded: false
   - title: "Accessibility testing"
     url: "/courses/shared/accessibility-testing/"
     submit: "Submit nothing."
@@ -46,17 +46,16 @@ tasks:
     pair: true
     button: activity
     type: basic
+  - title: "Final team check-in"
+    pair: true
+    button: activity
+    type: basic
+    submit: "Group meeting with teacher."
+    graded: false
   - title: "Team reflection"
     url: "https://github.com/acgd-webdev-6/team-reflection"
     due: "By the end of the final class"
     due_week: 9
     type: basic
     disabled: true
-  - title: "Web app prototype"
-    url: "https://github.com/acgd-webdev-6/web-app-prototype"
-    graded-as: web-app-prototype
-    due: "By the end of the final class"
-    due_week: 9
-    submit: show
-    pair: true
 ---
