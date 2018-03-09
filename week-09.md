@@ -47,15 +47,16 @@ tasks:
     button: activity
     type: basic
   - title: "Final team check-in"
+    url: "https://github.com/acgd-webdev-6/final-team-presentation"
     pair: true
     button: activity
-    type: basic
-    submit: "Group meeting with teacher."
-    graded: false
+    submit: show
+    graded-as: false
   - title: "Team reflection"
-    url: "https://github.com/acgd-webdev-6/team-reflection"
+    url: "/courses/shared/team-reflection/"
     due: "By the end of the final class"
     due_week: 9
     type: basic
-    disabled: true
+    submit: "Submit team feedback form."
+    graded-as: team-reflection
 ---

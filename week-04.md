@@ -27,9 +27,10 @@ tasks:
   - title: "UX discussion"
     url: "https://github.com/acgd-webdev-6/ux-discussion"
     type: basic
-    submit: "Group meeting with teacher."
+    submit: show
     button: activity
     pair: true
+    graded-as: false
   - title: "Usability testing"
     url: "/courses/shared/usability-testing/"
     type: basic
