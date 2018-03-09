@@ -6,17 +6,20 @@ clr: "1, 2, 3, 4, 5, 6"
 last_week: true
 
 video_tutorials:
+  - title: "Interactive prototype checklist"
+    url: interactive-prototype-checklist
+    highlight: true
   - title: "Launch checklist"
     url: launch-checklist
+    highlight: true
   - title: "Sprint checklist"
     url: sprint-checklist
-  - title: "Browser testing checklist"
-    url: browser-testing-checklist
-  - title: "Interactive prototype checklist"
+  - title: "Usability testing checklist"
+    url: usability-testing-checklist
   - title: "Accessibility testing checklist"
     url: accessibility-testing-checklist
-  - title: "Advanced performance checklist"
-    url: advanced-performance-checklist
+  - title: "Browser testing checklist"
+    url: browser-testing-checklist
 
 group_activities:
   - title: "Web app rubric completion"

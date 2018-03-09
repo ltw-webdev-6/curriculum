@@ -4,13 +4,11 @@ desc: "Finalize all the little details of the application screens preparing them
 clr: "1, 2, 3, 4, 5, 6"
 
 video_tutorials:
+  - title: "Interactive prototype checklist"
+    url: interactive-prototype-checklist
+    highlight: true
   - title: "Launch checklist"
     url: launch-checklist
-    highlight: true
-  - title: "Accessibility checklist"
-    url: accessibility-checklist
-    highlight: true
-  - title: "Interactive prototype checklist"
     highlight: true
   - title: "Sprint checklist"
     url: sprint-checklist
@@ -18,6 +16,8 @@ video_tutorials:
     url: branching-github-flow
   - title: "Jekyll"
     url: jekyll
+  - title: "Cheat sheets & checklists"
+    url: cheat-sheets-checklists
 
 todos:
   - "Sprint 7 review"

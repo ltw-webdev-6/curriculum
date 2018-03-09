@@ -9,16 +9,14 @@ video_tutorials:
     highlight: true
   - title: "Branching & GitHub Flow"
     highlight: true
+  - title: "Interactive prototype checklist"
+    url: interactive-prototype-checklist
+    highlight: true
   - title: "CSS preprocessors"
   - title: "Sprint checklist"
     url: sprint-checklist
   - title: "Jekyll"
     url: jekyll
-  - title: "Accessibility checklist"
-    url: accessibility-checklist
-    highlight: true
-  - title: "Interactive prototype checklist"
-    highlight: true
 
 slides:
   - title: "Many people, one codebase"
