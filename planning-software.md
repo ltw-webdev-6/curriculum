@@ -76,7 +76,7 @@ slides:
 
       - **enhancement** — (green) something to be added, new, not fully specified yet
 
-      - **product** — (dark green) overarching ideas, decisions & discussions
+      - **product** — (dark green) overarching ideas, decisions & discussions, testing
 
   - content: |
       ## Project boards
