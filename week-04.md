@@ -37,6 +37,7 @@ tasks:
     submit: show
     button: activity
     pair: true
+    progressinator_id: interactive-prototype-interim-usability-testing
   - title: "Web app prototype"
     url: "https://github.com/acgd-webdev-6/web-app-prototype"
     graded-as: web-app-prototype

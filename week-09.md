@@ -37,18 +37,21 @@ tasks:
     pair: true
     button: activity
     type: basic
+    progressinator_id: interactive-prototype-final-usability-testing
   - title: "Accessibility testing"
     url: "/courses/shared/accessibility-testing/"
     submit: "Submit nothing."
     pair: true
     button: activity
     type: basic
+    progressinator_id: interactive-prototype-final-a11y-testing
   - title: "Browser testing"
     url: "/courses/shared/browser-testing/"
     submit: "Submit nothing."
     pair: true
     button: activity
     type: basic
+    progressinator_id: interactive-prototype-final-browser-testing
   - title: "Final team check-in"
     url: "https://github.com/acgd-webdev-6/final-team-presentation"
     pair: true
