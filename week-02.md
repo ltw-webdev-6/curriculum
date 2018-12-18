@@ -10,6 +10,8 @@ video_tutorials:
   - title: "Using GitHub for project management"
     highlight: true
     videos: true
+  - title: "Project UX checklist"
+    highlight: true
   - title: "Sprint checklist"
     url: sprint-checklist
     highlight: true

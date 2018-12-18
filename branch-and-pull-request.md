@@ -172,8 +172,6 @@ steps:
       ![](pr-index-merge-delete.jpg)
 
       Press the subtle “Delete branch” button.
-
-      ![](pr-index-merge-close.jpg)
     notes:
       - label: "Automation"
         text: |
