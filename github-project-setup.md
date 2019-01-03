@@ -158,7 +158,7 @@ steps:
 
       ![](protect-master.jpg)
 
-      A little bit down the page is a “Protected branches” repository. In the “Choose a branch…” button select “master”.
+      A little bit down the page is a “Branch protection rules” repository. Press the  “Add rule” button.
 
       ![](protect-settings.jpg)
 
@@ -166,7 +166,7 @@ steps:
 
       Select the following options on the screen and save:
 
-      1. *“Protect this branch”*
+      1. Type `master` into the *“Apply rule to”* input field
         <br>This will prevent you from committing and pushing to the `master` branch—you’ll have to create a different branch.
       2. *“Require pull request reviews before merging”*
         <br>This will require everybody to get someone else to approve their code changes before they can be implemented into the `master` branch.

@@ -38,7 +38,6 @@ tasks:
     url: github-project-setup
     type: lesson
     pair: true
-    disabled: true
   - title: "Web app UX"
     url: "https://github.com/acgd-webdev-6/web-app-ux"
     graded-as: web-app-ux
