@@ -4,6 +4,7 @@ title: "GitHub project setup"
 desc: "Create the web application repository, add all the team members & enforce some branch and review protections."
 
 hide_markbot: true
+hide_show_for_marks: true
 video: "uLZqjRMPNzM"
 
 extra_tutorials:

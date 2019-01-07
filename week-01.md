@@ -38,6 +38,7 @@ tasks:
     url: github-project-setup
     type: lesson
     pair: true
+    submit: "Message teacher GitHub URL."
   - title: "Web app UX"
     url: "https://github.com/acgd-webdev-6/web-app-ux"
     graded-as: web-app-ux
