@@ -11,6 +11,14 @@ video_tutorials:
     url: usability-testing-checklist
   - title: "Accessibility checklist"
     url: accessibility-checklist
+  - title: "CSS variables"
+    videos: true
+  - title: "Pattern libraries"
+    videos: true
+  - title: "Pattern library cheat sheet"
+    url: pattern-library-cheat-sheet
+    highlight: true
+    disabled: true
 
 group_activities:
   - title: "UX rubric completion"

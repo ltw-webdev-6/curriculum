@@ -7,6 +7,10 @@ video_tutorials:
   - title: "Interactive prototype checklist"
     url: interactive-prototype-checklist
     highlight: true
+  - title: "Pattern library cheat sheet"
+    url: pattern-library-cheat-sheet
+    highlight: true
+    disabled: true
   - title: "Launch checklist"
     url: launch-checklist
     highlight: true

@@ -76,7 +76,7 @@ slides:
   - content: |
       ## Do the UX
 
-      **Do everything Jed would expect from you**
+      **Do everything expected from you in IxD**
 
       - Target audience
       - Competitive analysis
@@ -90,7 +90,7 @@ slides:
       **Code all the screens and make the app feel functional**
 
       - Write all the CSS & HTML for each screen
-      - Use Jekyll to automate away the duplicate HTML
+      - Use pattern libraries & Jekyll to automate away the duplicate HTML
       - Work on unique Git branches
       - Use Issues to assign tasks to each other
 
