@@ -5,8 +5,8 @@ clr: "1, 2, 6"
 
 video_tutorials:
   - title: "Agile development process"
+    url: agile-development-process
     highlight: true
-    videos: true
   - title: "Using GitHub for project management"
     highlight: true
     videos: true
