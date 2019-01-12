@@ -22,6 +22,11 @@ slides:
   - title: "Better team communication"
     url: better-team-communication
 
+group_activities:
+  - title: "Branching woes & branching goes"
+    pair: true
+    type: pencil
+
 todos:
   - "Sprint 2 review"
   - "Sprint 3 planning"

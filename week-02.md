@@ -4,12 +4,13 @@ desc: "Look at online project management tools, like GitHub, and how to code tog
 clr: "1, 2, 6"
 
 video_tutorials:
+  - title: "Using GitHub for project management"
+    url: using-github-for-project-management
+    highlight: true
+    videos: true
   - title: "Agile development process"
     url: agile-development-process
     highlight: true
-  - title: "Using GitHub for project management"
-    highlight: true
-    videos: true
   - title: "Project UX checklist"
     url: project-ux-checklist
     highlight: true
@@ -24,6 +25,11 @@ video_tutorials:
 slides:
   - title: "Planning software"
     url: planning-software
+
+group_activities:
+  - title: "<del>Naming</del> Planning things is hard"
+    pair: true
+    type: pencil
 
 tasks:
   - type: blank
