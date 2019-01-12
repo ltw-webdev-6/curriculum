@@ -11,6 +11,7 @@ video_tutorials:
     highlight: true
     videos: true
   - title: "Project UX checklist"
+    url: project-ux-checklist
     highlight: true
   - title: "Sprint checklist"
     url: sprint-checklist
