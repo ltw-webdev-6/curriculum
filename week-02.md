@@ -29,6 +29,7 @@ slides:
 
 group_activities:
   - title: "<del>Naming</del> Planning things is hard"
+    url: planning-things-is-hard
     pair: true
     type: pencil
 
