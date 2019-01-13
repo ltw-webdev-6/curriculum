@@ -11,6 +11,7 @@ video_tutorials:
   - title: "Agile development process"
     url: agile-development-process
     highlight: true
+    required: true
   - title: "Project UX checklist"
     url: project-ux-checklist
     highlight: true
