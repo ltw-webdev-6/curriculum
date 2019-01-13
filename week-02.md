@@ -7,7 +7,7 @@ video_tutorials:
   - title: "Using GitHub for project management"
     url: using-github-for-project-management
     highlight: true
-    videos: true
+    required: true
   - title: "Agile development process"
     url: agile-development-process
     highlight: true
