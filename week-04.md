@@ -12,11 +12,11 @@ video_tutorials:
   - title: "Accessibility checklist"
     url: accessibility-checklist
   - title: "CSS variables"
-    videos: true
+    url: css-variables
   - title: "Pattern libraries"
-    videos: true
+    url: pattern-libraries
   - title: "Pattern library cheat sheet"
-    url: pattern-library-cheat-sheet
+    # url: pattern-library-cheat-sheet
     highlight: true
     disabled: true
 
