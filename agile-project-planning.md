@@ -111,7 +111,7 @@ steps:
       ![](automation.jpg)
 
       - Name the column “In review”
-      - Change its preset to be “Done” and select “Move all closed issues here”—**you’ll will be prompted to confirm: press “Yes”**
+      - Change its preset to be “Done” and select “Closed”—**you’ll will be prompted to confirm: press “Yes”**
       - Move the “In review” column so it’s between “In progress” and “Done”
 
       ![](board.jpg)
