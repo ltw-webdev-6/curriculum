@@ -12,15 +12,27 @@ video_tutorials:
   - title: "Interactive prototype checklist"
     url: interactive-prototype-checklist
     highlight: true
-  - title: "CSS preprocessors"
   - title: "Sprint checklist"
     url: sprint-checklist
   - title: "Jekyll"
     url: jekyll
+  - title: "CSS variables"
+    url: css-variables
+  - title: "Pattern libraries"
+    url: pattern-libraries
+  - title: "Pattern library cheat sheet"
+    # url: pattern-library-cheat-sheet
+    highlight: true
+    disabled: true
 
 slides:
   - title: "Many people, one codebase"
     url: many-people-one-codebase
+
+group_activities:
+  - title: "Branching woes & branching goes"
+    pair: true
+    type: pencil
 
 todos:
   - "Sprint 4 review"

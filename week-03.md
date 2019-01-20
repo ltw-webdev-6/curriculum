@@ -4,6 +4,10 @@ desc: "Work diligently to complete the UX planning & research for the app to rea
 clr: "1, 2, 6"
 
 video_tutorials:
+  - title: "Better team communication"
+    url: better-team-communication
+    highlight: true
+    required: tru
   - title: "Sprint checklist"
     url: sprint-checklist
     highlight: true
@@ -17,15 +21,6 @@ video_tutorials:
     url: markdown-yaml-cheat-sheet
   - title: "Writing a readme"
     url: writing-a-readme
-
-slides:
-  - title: "Better team communication"
-    url: better-team-communication
-
-group_activities:
-  - title: "Branching woes & branching goes"
-    pair: true
-    type: pencil
 
 todos:
   - "Sprint 2 review"
