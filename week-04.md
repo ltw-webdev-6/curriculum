@@ -16,7 +16,7 @@ video_tutorials:
   - title: "Pattern libraries"
     url: pattern-libraries
   - title: "Pattern library cheat sheet"
-    # url: pattern-library-cheat-sheet
+    url: pattern-library-cheat-sheet
     highlight: true
     disabled: true
 
@@ -42,10 +42,11 @@ tasks:
   - title: "Usability testing"
     url: "/courses/shared/usability-testing/"
     type: basic
-    submit: show
+    submit: "Optional."
     button: activity
     pair: true
     progressinator_id: interactive-prototype-interim-usability-testing
+    graded-as: false
   - title: "Web app prototype"
     url: "https://github.com/acgd-webdev-6/web-app-prototype"
     graded-as: web-app-prototype

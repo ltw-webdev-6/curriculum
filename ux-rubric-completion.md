@@ -23,7 +23,4 @@ slides:
     image: rubric-issue.jpg
     caption: |
       *Write comments for each rubric row*
-
-  - type: timer
-    minutes: 10
 ---

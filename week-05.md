@@ -21,7 +21,7 @@ video_tutorials:
   - title: "Pattern libraries"
     url: pattern-libraries
   - title: "Pattern library cheat sheet"
-    # url: pattern-library-cheat-sheet
+    url: pattern-library-cheat-sheet
     highlight: true
     disabled: true
 

@@ -30,7 +30,11 @@ tasks:
   - title: "Security Sniper"
     url: "https://activities.learn-the-web.algonquindesign.ca/security-sniper/"
     type: activity
-  - type: blank
+  - title: "Web app set up & hosting"
+    url: "https://github.com/acgd-webdev-6/web-app-set-up-hosting"
+    submit: show
+    type: basic
+    button: activity
   - title: "Team check-in"
     url: "https://github.com/acgd-webdev-6/team-check-in"
     graded-as: team-check-in
