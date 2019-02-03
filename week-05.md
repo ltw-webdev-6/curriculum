@@ -8,6 +8,7 @@ video_tutorials:
     url: branching-flowchart
     highlight: true
   - title: "Branching & GitHub Flow"
+    url: branching-github-flow
     highlight: true
   - title: "Interactive prototype checklist"
     url: interactive-prototype-checklist
@@ -31,6 +32,7 @@ slides:
 
 group_activities:
   - title: "Branching woes & branching goes"
+    url: branching-woes-branching-goes
     pair: true
     type: pencil
 
