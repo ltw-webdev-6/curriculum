@@ -1,68 +1,50 @@
 ---
-topic: "Final project testing"
-desc: "Perform user, accessibility & browser testing on all the screens of another team’s application design."
+topic: "Coding out the details"
+desc: "Finalize all the little details of the application screens preparing them for final testing."
 clr: "1, 2, 3, 4, 5, 6"
-
-last_week: true
 
 video_tutorials:
   - title: "Interactive prototype checklist"
     url: interactive-prototype-checklist
     highlight: true
+  - title: "Pattern library cheat sheet"
+    url: pattern-library-cheat-sheet
+    highlight: true
+    disabled: true
   - title: "Launch checklist"
     url: launch-checklist
     highlight: true
   - title: "Sprint checklist"
     url: sprint-checklist
-  - title: "Usability testing checklist"
-    url: usability-testing-checklist
-  - title: "Accessibility testing checklist"
-    url: accessibility-testing-checklist
-  - title: "Browser testing checklist"
-    url: browser-testing-checklist
-
-group_activities:
-  - title: "Web app rubric completion"
-    url: web-app-rubric-completion
-    pair: true
-    type: star
+  - title: "Branching & GitHub Flow"
+    url: branching-github-flow
+  - title: "Jekyll"
+    url: jekyll
+  - title: "Cheat sheets & checklists"
+    url: cheat-sheets-checklists
 
 todos:
   - "Sprint 8 review"
+  - "Sprint 9 planning"
 
 tasks:
-  - title: "Usability testing"
-    url: "/courses/shared/usability-testing/"
-    submit: "Submit nothing."
-    pair: true
-    button: activity
+  - type: blank
+  - type: blank
+  - title: "Team check-in"
+    url: "https://github.com/acgd-webdev-6/team-check-in"
+    due: "Multiple dates"
+    due_week: 10
+    due_time: "23:59"
+    graded-as: team-check-in
     type: basic
-    progressinator_id: interactive-prototype-final-usability-testing
-  - title: "Accessibility testing"
-    url: "/courses/shared/accessibility-testing/"
-    submit: "Submit nothing."
-    pair: true
-    button: activity
-    type: basic
-    progressinator_id: interactive-prototype-final-a11y-testing
-  - title: "Browser testing"
-    url: "/courses/shared/browser-testing/"
-    submit: "Submit nothing."
-    pair: true
-    button: activity
-    type: basic
-    progressinator_id: interactive-prototype-final-browser-testing
-  - title: "Final team check-in"
-    url: "https://github.com/acgd-webdev-6/final-team-presentation"
-    pair: true
-    button: activity
     submit: show
-    graded-as: false
-  - title: "Team reflection"
-    url: "/courses/shared/team-reflection/"
+    button: activity
+    pair: true
+  - title: "Web app prototype"
+    url: "https://github.com/acgd-webdev-6/web-app-prototype"
+    graded-as: web-app-prototype
     due: "By the end of the final class"
-    due_week: 9
-    type: basic
-    submit: "Submit team feedback form."
-    graded-as: team-reflection
+    due_week: 10
+    submit: show
+    pair: true
 ---

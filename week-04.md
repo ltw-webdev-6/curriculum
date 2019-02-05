@@ -51,7 +51,7 @@ tasks:
     url: "https://github.com/acgd-webdev-6/web-app-prototype"
     graded-as: web-app-prototype
     due: "By the end of the final class"
-    due_week: 9
+    due_week: 10
     submit: show
     pair: true
 ---
