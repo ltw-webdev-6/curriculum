@@ -20,6 +20,11 @@ video_tutorials:
   - title: "Cheat sheets & checklists"
     url: cheat-sheets-checklists
 
+group_activities:
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
+    type: pencil
+
 todos:
   - "Sprint 6 review"
   - "Sprint 8 planning"
