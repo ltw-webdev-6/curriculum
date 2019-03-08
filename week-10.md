@@ -58,6 +58,7 @@ tasks:
     button: activity
     submit: show
     graded-as: false
+    due_week: 10
   - title: "Team reflection"
     url: "/courses/shared/team-reflection/"
     due: "By the end of the final class"
