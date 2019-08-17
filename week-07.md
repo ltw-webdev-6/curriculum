@@ -1,31 +1,52 @@
 ---
-topic: "Reading week—no classes"
-# topic: "Work week"
-during_class: "No class"
-desc: "No classes, labs or new homework this week—get caught up!"
-# desc: "Work classes to get caught up and ready for the final push to the end of the term!"
-clr: "1, 2, 6"
+topic: "Coding to the max!"
+desc: "Code all day and code all night; work to get all the screens of the application design functional."
+clr: "1, 2, 3, 4, 5, 6"
 
-no_lab_times: true
-no_office_hours: true
+video_tutorials:
+  - title: "Interactive prototype checklist"
+    url: interactive-prototype-checklist
+    highlight: true
+  - title: "Pattern library cheat sheet"
+    url: pattern-library-cheat-sheet
+    highlight: true
+    disabled: true
+  - title: "Branching & GitHub Flow"
+    url: branching-github-flow
+  - title: "Sprint checklist"
+    url: sprint-checklist
+  - title: "Jekyll"
+    url: jekyll
+  - title: "Cheat sheets & checklists"
+    url: cheat-sheets-checklists
+
+group_activities:
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
+    type: pencil
+
+todos:
+  - "Sprint 6 review"
+  - "Sprint 8 planning"
 
 tasks:
   - type: blank
   - type: blank
-  # - title: "One-on-one time"
-  #   url: "https://github.com/acgd-webdev-shared/one-on-one-time"
-  #   type: basic
-  #   button: activity
-  #   submit: "Submit nothing."
-  #   graded-as: false
-  - title: "Mid-course feedback"
-    url: "/feedback/"
+  - title: "Team check-in"
+    url: "https://github.com/acgd-webdev-6/team-check-in"
+    due: "Multiple dates"
+    due_week: 10
+    due_time: "23:59"
+    graded-as: team-check-in
     type: basic
-    submit: "Submit feedback form."
-    graded-as: false
-  - title: "Continue assignments"
-    url: "https://github.com/acgd-webdev-shared/continue-assignments"
-    submit: "Submit nothing new."
-    graded-as: false
-  - type: watch-videos
+    submit: show
+    button: activity
+    pair: true
+  - title: "Web app prototype"
+    url: "https://github.com/acgd-webdev-6/web-app-prototype"
+    graded-as: web-app-prototype
+    due: "By the end of the final class"
+    due_week: 10
+    submit: show
+    pair: true
 ---
