@@ -1,26 +1,34 @@
 ---
-topic: "Go UX team. Go!"
-desc: "Work diligently to complete the UX planning & research for the app to ready it for testing."
-clr: "1, 2, 6"
+topic: "Interactive prototype user testing"
+desc: "Trade off interactive prototypes and get dedicated feedback for your app design."
+clr: "2"
 
 video_tutorials:
   - title: "Better team communication"
     url: better-team-communication
     highlight: true
-    required: tru
+    required: true
   - title: "Sprint checklist"
     url: sprint-checklist
     highlight: true
+  - title: "Usability testing checklist"
+    url: usability-testing-checklist
   - title: "Accessibility checklist"
     url: accessibility-checklist
-  - title: "Markdown"
-    url: markdown
-  - title: "YAML"
-    url: yaml
-  - title: "Markdown & YAML cheat sheet"
-    url: markdown-yaml-cheat-sheet
-  - title: "Writing a readme"
-    url: writing-a-readme
+  - title: "CSS variables"
+    url: css-variables
+  - title: "Pattern libraries"
+    url: pattern-libraries
+  - title: "Pattern library cheat sheet"
+    url: pattern-library-cheat-sheet
+    highlight: true
+    disabled: true
+
+group_activities:
+  - title: "UX rubric completion"
+    url: ux-rubric-completion
+    pair: true
+    type: star
 
 todos:
   - "Sprint 2 review"
@@ -30,28 +38,26 @@ tasks:
   - title: "Security Sniper"
     url: "https://activities.learn-the-web.algonquindesign.ca/security-sniper/"
     type: activity
-  - title: "Web app set up & hosting"
-    url: "https://github.com/acgd-webdev-6/web-app-set-up-hosting"
-    submit: show
+  - title: "UX discussion"
+    url: "https://github.com/acgd-webdev-6/ux-discussion"
     type: basic
+    submit: show
     button: activity
-  - title: "Team check-in"
-    url: "https://github.com/acgd-webdev-6/team-check-in"
-    graded-as: team-check-in
-    due: "Multiple dates"
+    pair: true
+    graded-as: false
+  - title: "Usability testing"
+    url: "/courses/shared/usability-testing/"
+    type: basic
+    submit: "Optional."
+    button: activity
+    pair: true
+    progressinator_id: interactive-prototype-interim-usability-testing
+    graded-as: false
+  - title: "Web app prototype"
+    url: "https://github.com/acgd-webdev-6/web-app-prototype"
+    graded-as: web-app-prototype
+    due: "By the end of the final class"
     due_week: 10
-    due_time: "23:59"
-    type: basic
-    submit: show
-    button: activity
-    pair: true
-  - title: "Web app UX"
-    url: "https://github.com/acgd-webdev-6/web-app-ux"
-    graded-as: web-app-ux
-    due: "Start of class, week 4"
-    due_week: 4
-    due_time: "23:59"
     submit: show
     pair: true
-    type: basic
 ---

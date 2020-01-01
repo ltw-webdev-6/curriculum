@@ -1,6 +1,6 @@
 ---
-topic: "All the patterns, all the time"
-desc: "Break the application into the smallest possible patterns & make a magical pattern library with every possible component."
+topic: "Coding out the details"
+desc: "Finalize all the little details of the application screens preparing them for final testing."
 clr: "1, 2, 3, 4, 5, 6"
 
 video_tutorials:
@@ -11,10 +11,13 @@ video_tutorials:
     url: pattern-library-cheat-sheet
     highlight: true
     disabled: true
-  - title: "Branching & GitHub Flow"
-    url: branching-github-flow
+  - title: "Launch checklist"
+    url: launch-checklist
+    highlight: true
   - title: "Sprint checklist"
     url: sprint-checklist
+  - title: "Branching & GitHub Flow"
+    url: branching-github-flow
   - title: "Jekyll"
     url: jekyll
   - title: "Cheat sheets & checklists"

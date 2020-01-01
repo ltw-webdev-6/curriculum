@@ -39,6 +39,11 @@ tasks:
     url: "agile-project-planning"
     type: lesson
     pair: true
+  - title: "Web app set up & hosting"
+    url: "https://github.com/acgd-webdev-6/web-app-set-up-hosting"
+    submit: show
+    type: basic
+    button: activity
   - title: "Success criteria definitions"
     url: "https://github.com/acgd-webdev-6/success-criteria-definitions"
     type: basic

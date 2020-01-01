@@ -1,39 +1,28 @@
 ---
-topic: "Diving into code"
-desc: "Start delegating and planning the code’s organization and begin writing code for the different screens of the project."
+topic: "All the patterns, all the time"
+desc: "Break the application into the smallest possible patterns & make a magical pattern library with every possible component."
 clr: "1, 2, 3, 4, 5, 6"
 
 video_tutorials:
-  - title: "Branching flowchart"
-    url: branching-flowchart
-    highlight: true
-  - title: "Branching & GitHub Flow"
-    url: branching-github-flow
-    highlight: true
   - title: "Interactive prototype checklist"
     url: interactive-prototype-checklist
     highlight: true
-  - title: "Sprint checklist"
-    url: sprint-checklist
-  - title: "Jekyll"
-    url: jekyll
-  - title: "CSS variables"
-    url: css-variables
-  - title: "Pattern libraries"
-    url: pattern-libraries
   - title: "Pattern library cheat sheet"
     url: pattern-library-cheat-sheet
     highlight: true
     disabled: true
-
-slides:
-  - title: "Many people, one codebase"
-    url: many-people-one-codebase
+  - title: "Branching & GitHub Flow"
+    url: branching-github-flow
+  - title: "Sprint checklist"
+    url: sprint-checklist
+  - title: "Jekyll"
+    url: jekyll
+  - title: "Cheat sheets & checklists"
+    url: cheat-sheets-checklists
 
 group_activities:
-  - title: "Branching woes & branching goes"
-    url: branching-woes-branching-goes
-    pair: true
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
     type: pencil
 
 todos:
@@ -41,12 +30,8 @@ todos:
   - "Sprint 5 planning"
 
 tasks:
-  - title: "Git Graduator"
-    url: "https://activities.learn-the-web.algonquindesign.ca/git-graduator/"
-    type: activity
-  - title: "Branch & pull request"
-    url: branch-and-pull-request
-    type: lesson
+  - type: blank
+  - type: blank
   - title: "Team check-in"
     url: "https://github.com/acgd-webdev-6/team-check-in"
     due: "Multiple dates"

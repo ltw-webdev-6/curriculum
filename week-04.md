@@ -1,16 +1,22 @@
 ---
-topic: "Interactive prototype user testing"
-desc: "Trade off interactive prototypes and get dedicated feedback for your app design."
-clr: "2"
+topic: "Diving into code"
+desc: "Start delegating and planning the code’s organization and begin writing code for the different screens of the project."
+clr: "1, 2, 3, 4, 5, 6"
 
 video_tutorials:
+  - title: "Branching flowchart"
+    url: branching-flowchart
+    highlight: true
+  - title: "Branching & GitHub Flow"
+    url: branching-github-flow
+    highlight: true
+  - title: "Interactive prototype checklist"
+    url: interactive-prototype-checklist
+    highlight: true
   - title: "Sprint checklist"
     url: sprint-checklist
-    highlight: true
-  - title: "Usability testing checklist"
-    url: usability-testing-checklist
-  - title: "Accessibility checklist"
-    url: accessibility-checklist
+  - title: "Jekyll"
+    url: jekyll
   - title: "CSS variables"
     url: css-variables
   - title: "Pattern libraries"
@@ -20,33 +26,37 @@ video_tutorials:
     highlight: true
     disabled: true
 
+slides:
+  - title: "Many people, one codebase"
+    url: many-people-one-codebase
+
 group_activities:
-  - title: "UX rubric completion"
-    url: ux-rubric-completion
+  - title: "Branching woes & branching goes"
+    url: branching-woes-branching-goes
     pair: true
-    type: star
+    type: pencil
 
 todos:
   - "Sprint 3 review"
   - "Sprint 4 planning"
 
 tasks:
-  - type: blank
-  - title: "UX discussion"
-    url: "https://github.com/acgd-webdev-6/ux-discussion"
+  - title: "Git Graduator"
+    url: "https://activities.learn-the-web.algonquindesign.ca/git-graduator/"
+    type: activity
+  - title: "Branch & pull request"
+    url: branch-and-pull-request
+    type: lesson
+  - title: "Team check-in"
+    url: "https://github.com/acgd-webdev-6/team-check-in"
+    due: "Multiple dates"
+    due_week: 10
+    due_time: "23:59"
+    graded-as: team-check-in
     type: basic
     submit: show
     button: activity
     pair: true
-    graded-as: false
-  - title: "Usability testing"
-    url: "/courses/shared/usability-testing/"
-    type: basic
-    submit: "Optional."
-    button: activity
-    pair: true
-    progressinator_id: interactive-prototype-interim-usability-testing
-    graded-as: false
   - title: "Web app prototype"
     url: "https://github.com/acgd-webdev-6/web-app-prototype"
     graded-as: web-app-prototype
