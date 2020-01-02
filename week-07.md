@@ -58,11 +58,11 @@ tasks:
     button: activity
     submit: show
     graded-as: false
-    due_week: 10
+    due_week: 7
   - title: "Team reflection"
     url: "/courses/shared/team-reflection/"
     due: "By the end of the final class"
-    due_week: 10
+    due_week: 7
     type: basic
     submit: "Submit team feedback form."
     graded-as: team-reflection

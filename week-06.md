@@ -33,7 +33,7 @@ tasks:
   - title: "Team check-in"
     url: "https://github.com/acgd-webdev-6/team-check-in"
     due: "Multiple dates"
-    due_week: 10
+    due_week: 7
     due_time: "23:59"
     graded-as: team-check-in
     type: basic
@@ -44,7 +44,7 @@ tasks:
     url: "https://github.com/acgd-webdev-6/web-app-prototype"
     graded-as: web-app-prototype
     due: "By the end of the final class"
-    due_week: 10
+    due_week: 7
     submit: show
     pair: true
 ---
