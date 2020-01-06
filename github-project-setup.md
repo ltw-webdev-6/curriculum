@@ -134,14 +134,6 @@ steps:
 
       ![](repo-settings.jpg)
 
-      Now would probably be a good item to enable GitHub Pages too—even though we won’t be using the functionality for a while.
-
-      Go to “Settings” and scroll down to the “GitHub Pages” section.
-
-      ![](repo-ghpages.jpg)
-
-      Choose “master branch” and “Save”.
-
   - title: "Protect the master branch"
     person:
       icon: "person-1"

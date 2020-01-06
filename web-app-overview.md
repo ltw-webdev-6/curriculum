@@ -62,7 +62,7 @@ slides:
       - GitHub
       - GitHub Projects
       - GitHub Issues
-      - GitHub Pages
+      - Netlify
 
   - content: |
       ## Timeline
