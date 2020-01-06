@@ -68,10 +68,10 @@ slides:
       ## Timeline
 
       - *Half the term on UX*
-        <br>(Weeks 1–4)
+        <br>(Weeks 1–3)
         <br>&nbsp;
       - *Half the term on code*
-        <br>(Weeks 5–9)
+        <br>(Weeks 3–7)
 
   - content: |
       ## Do the UX
