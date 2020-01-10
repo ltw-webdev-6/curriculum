@@ -132,8 +132,6 @@ steps:
 
       **Make sure to enable “Initialize this repository with a README!”**
 
-      ![](repo-settings.jpg)
-
   - title: "Protect the master branch"
     person:
       icon: "person-1"
