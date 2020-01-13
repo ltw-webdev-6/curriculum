@@ -260,6 +260,7 @@ steps:
       # Jekyll
       _site
       .jekyll-metadata
+      .jekyll-cache
 
       # Adobe files
       *.pdf
