@@ -103,9 +103,9 @@ slides:
   - content: |
       ## Issue or it doesn’t exist
 
-      Slack is ephemeral—if there isn’t an Issue on GitHub, the task doesn’t exist.
+      Chat/messaging is ephemeral—if there isn’t an Issue on GitHub, the task doesn’t exist.
 
-      - Slack is for quick questions and starting points
+      - Chat/messaging is for quick questions and starting points
       - Issues are for deep discussions & work definitions
 
 ---

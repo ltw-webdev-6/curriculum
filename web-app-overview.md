@@ -58,11 +58,11 @@ slides:
   - content: |
       ## Online project management
 
-      - Slack
       - GitHub
       - GitHub Projects
       - GitHub Issues
       - Netlify
+      - Slack? Keybase? Zulip? Signal?
 
   - content: |
       ## Timeline
