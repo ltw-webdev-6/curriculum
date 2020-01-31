@@ -7,6 +7,9 @@ video_tutorials:
   - title: "Branching flowchart"
     url: branching-flowchart
     highlight: true
+  - title: "Updating from master flowchart"
+    url: updating-from-master-flowchart
+    highlight: true
   - title: "Branching & GitHub Flow"
     url: branching-github-flow
     highlight: true
