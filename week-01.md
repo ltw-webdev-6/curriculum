@@ -24,12 +24,12 @@ slides:
     url: web-app-overview
 
 todos:
-  - "[Assign yourself to the correct course & section on Progressinator for due dates](https://progress.learn-the-web.algonquindesign.ca/profile/)"
+  - "[Assign yourself to the correct course & section on Progressinator for due dates](https://progress.learntheweb.courses/profile/)"
 
 tasks:
   - type: blank
   - title: "Team allocation"
-    url: "https://github.com/acgd-webdev-6/team-allocation"
+    url: "https://github.com/ltw-webdev-6/team-allocation"
     type: basic
     submit: "Message teacher team list."
     button: activity
@@ -40,7 +40,7 @@ tasks:
     pair: true
     submit: "Message teacher GitHub URL."
   - title: "Web app UX"
-    url: "https://github.com/acgd-webdev-6/web-app-ux"
+    url: "https://github.com/ltw-webdev-6/web-app-ux"
     graded-as: web-app-ux
     due: "Start of class, week 3"
     due_week: 3

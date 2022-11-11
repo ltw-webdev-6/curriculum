@@ -22,7 +22,7 @@ slides:
       ## Set up
 
       1. Form into pairs, not necessarily your teams
-      2. [Download this graphical Git log](https://github.com/acgd-webdev-6/branching-woes-branching-goes/archive/master.zip)
+      2. [Download this graphical Git log](https://github.com/ltw-webdev-6/branching-woes-branching-goes/archive/master.zip)
       3. Label all the important bits
       4. Answer some questions about the Git log
 

@@ -36,10 +36,10 @@ todos:
 
 tasks:
   - title: "Security Sniper"
-    url: "https://activities.learn-the-web.algonquindesign.ca/security-sniper/"
+    url: "https://activities.learntheweb.courses/security-sniper/"
     type: activity
   - title: "UX discussion"
-    url: "https://github.com/acgd-webdev-6/ux-discussion"
+    url: "https://github.com/ltw-webdev-6/ux-discussion"
     type: basic
     submit: show
     button: activity
@@ -54,7 +54,7 @@ tasks:
     progressinator_id: interactive-prototype-interim-usability-testing
     graded-as: false
   - title: "Web app prototype"
-    url: "https://github.com/acgd-webdev-6/web-app-prototype"
+    url: "https://github.com/ltw-webdev-6/web-app-prototype"
     graded-as: web-app-prototype
     due: "By the end of the final class"
     due_week: 7

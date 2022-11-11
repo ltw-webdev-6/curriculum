@@ -45,13 +45,13 @@ todos:
 
 tasks:
   - title: "Git Graduator"
-    url: "https://activities.learn-the-web.algonquindesign.ca/git-graduator/"
+    url: "https://activities.learntheweb.courses/git-graduator/"
     type: activity
   - title: "Branch & pull request"
     url: branch-and-pull-request
     type: lesson
   - title: "Team check-in"
-    url: "https://github.com/acgd-webdev-6/team-check-in"
+    url: "https://github.com/ltw-webdev-6/team-check-in"
     due: "Multiple dates"
     due_week: 7
     due_time: "23:59"
@@ -61,7 +61,7 @@ tasks:
     button: activity
     pair: true
   - title: "Web app prototype"
-    url: "https://github.com/acgd-webdev-6/web-app-prototype"
+    url: "https://github.com/ltw-webdev-6/web-app-prototype"
     graded-as: web-app-prototype
     due: "By the end of the final class"
     due_week: 7

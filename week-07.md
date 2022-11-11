@@ -53,7 +53,7 @@ tasks:
     type: basic
     progressinator_id: interactive-prototype-final-browser-testing
   - title: "Final team check-in"
-    url: "https://github.com/acgd-webdev-6/final-team-presentation"
+    url: "https://github.com/ltw-webdev-6/final-team-presentation"
     pair: true
     button: activity
     submit: show

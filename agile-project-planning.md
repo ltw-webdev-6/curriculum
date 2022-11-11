@@ -129,11 +129,11 @@ steps:
 
       *Some examples that might be necessary for this week:*
 
-      - “Create the ‘Egon’ persona” — `@abby`
+      - “Create the ‘Egon’ persona” — `@abby`
       - “Finalize the home screen in XD” — `@holtz`
-      - “Finalize the list screen in XD” — `@erin`
-      - “Finalize the brand guide” — `@holtz`
-      - “Create a sample button component” — `@patty`
+      - “Finalize the list screen in XD” — `@erin`
+      - “Finalize the brand guide” — `@holtz`
+      - “Create a sample button component” — `@patty`
 
       **Are there sub-tasks involved in each task? Define those too.**
 

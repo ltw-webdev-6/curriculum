@@ -11,10 +11,10 @@ slides:
   - content: |
       ## What’s a “web app”
 
-      - **Task oriented** — Perform a task, instead of find info
-      - **URL-driven** — On The Web, platform agnostic, sharable
+      - **Task oriented** — Perform a task, instead of find info
+      - **URL-driven** — On The Web, platform agnostic, sharable
       - **Fully responsive** — Works on all screens & devices
-      - **Always up-to-date** — Devs control release cycle
+      - **Always up-to-date** — Devs control release cycle
 
   - content: |
       ## Interactive prototype

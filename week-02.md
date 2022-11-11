@@ -40,18 +40,18 @@ tasks:
     type: lesson
     pair: true
   - title: "Web app set up & hosting"
-    url: "https://github.com/acgd-webdev-6/web-app-set-up-hosting"
+    url: "https://github.com/ltw-webdev-6/web-app-set-up-hosting"
     submit: show
     type: basic
     button: activity
   - title: "Success criteria definitions"
-    url: "https://github.com/acgd-webdev-6/success-criteria-definitions"
+    url: "https://github.com/ltw-webdev-6/success-criteria-definitions"
     type: basic
     submit: show
     button: activity
     pair: true
   - title: "Web app UX"
-    url: "https://github.com/acgd-webdev-6/web-app-ux"
+    url: "https://github.com/ltw-webdev-6/web-app-ux"
     graded-as: web-app-ux
     due: "Start of class, week 3"
     due_week: 3

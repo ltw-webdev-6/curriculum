@@ -31,7 +31,7 @@ tasks:
   - type: blank
   - type: blank
   - title: "Team check-in"
-    url: "https://github.com/acgd-webdev-6/team-check-in"
+    url: "https://github.com/ltw-webdev-6/team-check-in"
     due: "Multiple dates"
     due_week: 7
     due_time: "23:59"
@@ -41,7 +41,7 @@ tasks:
     button: activity
     pair: true
   - title: "Web app prototype"
-    url: "https://github.com/acgd-webdev-6/web-app-prototype"
+    url: "https://github.com/ltw-webdev-6/web-app-prototype"
     graded-as: web-app-prototype
     due: "By the end of the final class"
     due_week: 7
