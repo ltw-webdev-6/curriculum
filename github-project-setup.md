@@ -5,7 +5,8 @@ desc: "Create the web application repository, add all the team members & enforce
 
 hide_markbot: true
 hide_show_for_marks: true
-video: "uLZqjRMPNzM"
+playlist: web-dev-6
+video: github-org-team-setup
 
 extra_tutorials:
   - title: "Commit message cheat sheet"
